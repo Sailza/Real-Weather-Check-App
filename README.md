@@ -6,7 +6,8 @@ maintainable Code. Actively engaged in learning and adapting new technologies an
 #Technology used : Java, JSP, Jakarta EE, Servlets, HTML, CSS, JavaScript, API, Apache Tomcat Server, Eclipse IDE, Git.
 
 #main Screen 
-![Screenshot (598)](https://github.com/Sailza/Real-Weather-Check-App/assets/97443167/5728e860-52db-4fc2-b266-5d23e4fae6af)
+![Screenshot (598)](https://github.com/Sailza/Real-Weather-Check-App/assets/97443167/b2292b97-b2ae-415e-b522-3a076add5802)
+
 
 #weather-details screen
-![Screenshot (599)](https://github.com/Sailza/Real-Weather-Check-App/assets/97443167/169faca8-269d-4015-9e59-d7ea1aa90c26)
+![Screenshot (599)](https://github.com/Sailza/Real-Weather-Check-App/assets/97443167/02d97291-63f5-4311-9b6d-7bf16643217a)
